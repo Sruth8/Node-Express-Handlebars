@@ -1,0 +1,24 @@
+.jumbotron {
+    background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQtzZ517N9jepNmYRySdYoI_1sOWcOMXZuf5pHgcQA3kSFsVNBf")! important;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    margin-top: 10px;
+}
+
+.jumbotron > h1 {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+#newburger {
+    border-radius: 5px;
+}
+
+#color-override {
+    color: #fff;
+}
+
+
+
+
+
