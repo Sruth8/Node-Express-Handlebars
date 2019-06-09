@@ -1,6 +1,6 @@
 var express = require("express");
 //var mysql = require("mysql");
-//var methodOverride = require ('method-override');
+
 var bodyParser = require("body-parser");
 
 var PORT = process.env.PORT || process.env.DEV_PORT || 8080;
@@ -22,7 +22,7 @@ app.use(bodyParser.urlencoded({
 // Set Handlebars.
 var exphbs = require("express-handlebars");
 
-//app.use(methodOverride('_method'));
+
 app.engine("handlebars", exphbs({ defaultLayout: "main" }));
 app.set("view engine", "handlebars");
 
