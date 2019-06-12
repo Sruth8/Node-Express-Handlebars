@@ -1,5 +1,5 @@
 .jumbotron {
-    background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQtzZ517N9jepNmYRySdYoI_1sOWcOMXZuf5pHgcQA3kSFsVNBf")! important;
+    background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRkDYPwuO5k39inJqvwM7cbBnCvdaTNdbWXS23OO4oOhlfUXJxI5Q")! important;
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
@@ -7,7 +7,7 @@
 }
 
 .jumbotron > h1 {
-    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-family: 'Fontdiner Swanky', cursive;
 }
 
 #newburger {
