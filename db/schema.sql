@@ -10,4 +10,6 @@ CREATE TABLE burgers
 );
 
 
+
+
    select * from burgers
