@@ -13,7 +13,7 @@ var connection = mysql.createConnection({
 connection.connect(function(err){
     if(err)throw err;
     console.log(connection.state)
-    console.log("connected as id: " + connection.threadid);
+    console.log("connected as id: " + connection.threadId);
 });
 
 module.exports = connection;
