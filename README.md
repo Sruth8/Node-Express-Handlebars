@@ -12,5 +12,5 @@ This burger logger was created using;
 
 
 
-![GitHub Logo](/images/burger-1 10-15-19.png)
+![GitHub Logo](/images/burger10-15-19.png)
 Format: ![Alt Text](url)
